@@ -1,3 +1,4 @@
+import React from "react";
 import styles from './Neon.module.css'
 
 export default function Neon() {

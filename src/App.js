@@ -1,18 +1,20 @@
 import './App.css';
 import Neon from './components/neon/Neon';
-import EnterButton from './components/enterButton/EnterButton';
+import LandingButton from './components/landingButton/LandingButton'
 
 function App() {
 
   return (
     <main className="App">
+      <div className="wrapper">
       <div className="Neon">
       <Neon />
       </div>
     
       
       <div className="EnterButton">
-      <EnterButton/>
+      <LandingButton/>
+      </div>
       </div>
     </main>
   );
