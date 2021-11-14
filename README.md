@@ -1,4 +1,4 @@
-# Converted landingpage, created in WordPress and Photoshop/Illustrator into pure css (with a "div" or 2...)!
+# Converted landingpage, created in WordPress and Photoshop/Illustrator into pure css (with a background-image and a "div" or 2...)!
 [React Application](https://github.com/facebook/create-react-app)
 
 Here's my [Wordpress page](https://jodelajo.nl/jodelajo/):
